@@ -1,2 +1,2 @@
 # Weather-App
-APP
+Used an OpenWeatherMap API to fetch city weather data. 
